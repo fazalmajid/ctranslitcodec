@@ -1,0 +1,6 @@
+Transliterate typographic quotes down to dumb quotes.
+
+Add emoji transliterated down to shortcodes.
+
+Add HTML entity to Unicode normalization, using as reference:
+https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references

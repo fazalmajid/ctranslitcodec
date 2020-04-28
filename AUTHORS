@@ -1,0 +1,15 @@
+ctranslitcodec was written by Fazal Majid in 2020.
+
+------------------------------------------------------------------------
+
+translitcodec was originally written by Jason Kirtland in 2008.
+
+Contributors are:
+
+- Jason Kirtland <jek@discorporate.us>
+- Craig Dennis <craig@idealist.org>
+- Piotr Skamruk <piotr.skamruk@gmail.com>
+- Claude Paroz <claude@2xlibre.net>
+
+The translitcodec source distribution includes the 'transtab' package
+by Markus Kuhn <mkuhn@acm.org>.
